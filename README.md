@@ -1,6 +1,6 @@
-# PayTM Clone
+# UPI Clone
 
-Welcome to the PayTM Clone project! This project aims to replicate the basic functionality of PayTM, allowing users to perform transactions, view their account balance, and interact with other users.
+Welcome to the UPI Clone project! This project aims to replicate the basic functionality of UPI, allowing users to perform transactions, view their account balance, and interact with other users.
 
 ## Features
 
@@ -17,12 +17,12 @@ Welcome to the PayTM Clone project! This project aims to replicate the basic fun
 
 ## Getting Started
 
-To get started with the PayTM Clone project, follow these steps:
+To get started with the UPI Clone project, follow these steps:
 
 1. **Clone the Repository**: Clone the repository from GitHub:
 
    ```
-   git clone https://github.com/HarshBatra/paytm-clone.git
+   git clone https://github.com/Paritosh-sharma1/UPI-.git
    ```
 
 2. **Set Environment Variables**: Navigate to the `frontend` and `backend` folders and add necessary environment variables. You may need to create a `.env` file and configure it with required variables:
@@ -63,10 +63,10 @@ To get started with the PayTM Clone project, follow these steps:
 
 ## Database Transactions
 
-The PayTM Clone project implements MongoDB Transactions to ensure data consistency and reliability. Transactions follow the ACID properties of databases, ensuring that transactions are either fully completed and committed or reverted back in case of issues, thus preventing inconsistencies in the database.
+The UPI Clone project implements MongoDB Transactions to ensure data consistency and reliability. Transactions follow the ACID properties of databases, ensuring that transactions are either fully completed and committed or reverted back in case of issues, thus preventing inconsistencies in the database.
 
 ## Contributions
 
 Contributions to the PayTM Clone project are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 
-Thank you for using PayTM Clone! Happy Coding! 🚀
+Thank you for using UPI Clone! Happy Coding! 🚀
