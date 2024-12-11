@@ -67,6 +67,6 @@ The UPI Clone project implements MongoDB Transactions to ensure data consistency
 
 ## Contributions
 
-Contributions to the PayTM Clone project are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
+Contributions to the UPI Clone project are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 
 Thank you for using UPI Clone! Happy Coding! 🚀
